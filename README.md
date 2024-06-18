@@ -42,22 +42,22 @@
 ---
 
 # Columns description:
-  1. id: Unique identifier for each loan.
-  2. member_id: Unique identifier for each member (customer).
-  3. loan_amnt: The amount of money loaned to the member.
-  4. grade: The loan grade is assigned based on the risk of the loan.
-  5. sub_grade: A more detailed breakdown of the loan grade.
-  6. home_ownership: The homeownership status of the member (e.g., RENT, OWN, MORTGAGE).
-  7. verification_status: Indicates whether the income of the borrower was verified.
-  8. issue_d: The date when the loan was issued.
-  9. loan_status: The current status of the loan (e.g., Fully Paid, Charged Off).
-  10. addr_state: The state of the borrower's address.
-  11. Year: The year when the loan was issued.
-  12. Revol Bal: The revolving balance amount (amount owed on revolving credit accounts).
-  13. total_pymnt: The total amount of payment received to date for the loan.
-  14. last_pymnt_d: The date of the last payment made.
-  15. last_pymnt_amnt: The amount of the last payment made.
-  16. last_credit_pull_d: The date when the borrower's credit was last pulled.
+    1. id: Unique identifier for each loan.
+    2. member_id: Unique identifier for each member (customer).
+    3. loan_amnt: The amount of money loaned to the member.
+    4. grade: The loan grade is assigned based on the risk of the loan.
+    5. sub_grade: A more detailed breakdown of the loan grade.
+    6. home_ownership: The homeownership status of the member (e.g., RENT, OWN, MORTGAGE).
+    7. verification_status: Indicates whether the income of the borrower was verified.
+    8. issue_d: The date when the loan was issued.
+    9. loan_status: The current status of the loan (e.g., Fully Paid, Charged Off).
+    10. addr_state: The state of the borrower's address.
+    11. Year: The year when the loan was issued.
+    12. Revol Bal: The revolving balance amount (amount owed on revolving credit accounts).
+    13. total_pymnt: The total amount of payment received to date for the loan.
+    14. last_pymnt_d: The date of the last payment made.
+    15. last_pymnt_amnt: The amount of the last payment made.
+    16. last_credit_pull_d: The date when the borrower's credit was last pulled.
       
 ---
 
