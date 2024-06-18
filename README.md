@@ -5,6 +5,7 @@
   Leveraging powerful tools like Excel, MySQL, Power BI, and Tableau, we conduct advanced analytics and create interactive visualizations to support data-driven decision-making.
 
 ---
+
 # 📁 Data Sources
     The dataset used for this analysis comprises historical bank loan data, including:
       1. 🧑‍🤝‍🧑 Customer information
@@ -13,10 +14,11 @@
       4. 💼 Invested fund
       5. 🔄 Repayment status
       6. 📉 Credit scores
-      7. 🎓 Loan grade And other relevant attributes, The data is sourced from the bank's internal database and stored in a
-         MySQL database for efficient access and manipulation.
+      7. 🎓 Loan grade And other relevant attributes, The data is sourced from the bank's 
+            internal database and stored in a MySQL database for efficient access and manipulation.
 
 ---
+
 # 🔍 Analysis Process 
   1. 🧹Data Preprocessing with Excel:
        - Data Cleaning: Removed duplicates, handled missing values, and formatted data types to ensure data integrity.
@@ -56,6 +58,7 @@
   14. last_pymnt_d: The date of the last payment made.
   15. last_pymnt_amnt: The amount of the last payment made.
   16. last_credit_pull_d: The date when the borrower's credit was last pulled.
+      
 ---
 
 # 📊 Key Performance Indicators (KPIs)
